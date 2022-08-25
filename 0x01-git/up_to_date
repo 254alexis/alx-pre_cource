@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gitn pull
+=======
+git pull master
+>>>>>>> refs/remotes/origin/master
